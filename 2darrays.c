@@ -10,7 +10,7 @@ int main()
 			scanf("%d",&n[r][c]);
 		}
 	}
-		printf("\n    the given matrix");
+		printf("\n    the  matrix is ");
 		for(r=0;r<3;r++)
 		{
 			printf("\n");
